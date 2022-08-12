@@ -240,7 +240,7 @@ h3{
 .languages{
     background-color: var(--clr-dark);
     color: var(--clr-light);
-    background-image: url(/images/bg1.jpg);
+    background-image: url(./images/bg1.jpg);
     background-size: cover;
     background-blend-mode: multiply;
     text-align: center;
